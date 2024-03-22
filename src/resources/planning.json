@@ -1,0 +1,48 @@
+[
+    {
+      "title": "Bir aile iletişim planı oluşturun",
+      "description": "Ailenizin ayrılmış olması ihtimaline karşı, bölge dışından birini merkezi irtibat kişisi olarak seçin. En önemlisi, acil durum planınızı önceden uygulayın.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-iletisimplani.svg"
+    },
+    {
+      "title": "Telefonunuzu sürekli şarj edin",
+      "description": "ve elektrik kesintisi durumunda taşınabilir bir telefon şarj cihazını hazır bulundurun.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-telefon-sarj.svg"
+    },
+    {
+      "title": "Acil durum iletişim bilgilerini programlayın",
+      "description": "Yapacaklarınızı önceden telefonunuza not edin. Çünkü bazen panik halinde unutmanız mümkündür.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-acildurum-iletisim-plani.svg"
+    },
+    {
+      "title": "Afet Çantanızı hazırlayın.",
+      "description": "Afet ne zaman gelir bilinmez. Bu yüzden mutlaka acil durumlarda kullanılmak üzere bir çanta hazırlayın. Bu çantada neler olabileceğinin bilgilerini Afad’ın sitesinde bulabilirsiniz.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-afet-cantasi.svg"
+    },
+    {
+      "title": "Evinizi hazırlayın.",
+      "description": "Fırtına riski altındaysanız, izolasyonu kurun ve boruların donmasını nasıl önleyeceğinizi öğrenin. Kasırgaya meyilli bölgelerde kasırga panjurları takmayı düşünün.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-ev-hazirlik.svg"
+    },
+    {
+      "title": "Hava durumu raporlarına dikkat edin.",
+      "description": "Meteoroloji tarafından verilere dikkat edin. Sel uyarılarında mutlaka dere yatakları, vadi gibi çukur alanlarda bulunmayın.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-havadurumu.svg"
+    },
+    {
+      "title": "Elektrik olmadan birkaç gün evde kalmanız gerekirse diye malzemeleri toplayın.",
+      "description": "İlaçlar dahil her bir kişinin özel ihtiyaçlarını aklınızda bulundurun. Evcil hayvanların ihtiyaçlarını unutmayın!",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-elektrik.svg"
+    },
+    {
+      "title": "Önemli belgeleri güvenli bir yerde saklayın",
+      "description": "veya parola korumalı dijital kopyalar oluşturun.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-afet-cantasi.svg"
+    },
+    {
+      "title": "Kameradan yararlanın.",
+      "description": "Sigorta şirketinize hasar fotoğrafları ve video klipleri çekmek, saklamak ve göndermek için akıllı telefonunuza yükleyin.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-kamera.svg"
+    }
+  ]
+  

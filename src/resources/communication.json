@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Haberleşme",
+      "description": "Haberleşme için SMS ve internet tabanlı uygulamaları kullanın.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-haberlesme.svg"
+    },
+    {
+      "title": "Kısa Görüşmeler",
+      "description": "Acil durumlarda telefon görüşmesi yapmaktan kaçının. Mecburi durumlarda telefon görüşmelerinizi mümkün olduğunca kısa tutun.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-kisagorusme.svg"
+    },
+    {
+      "title": "Ücretsiz Wifi",
+      "description": "Bulunduğunuz bölgedeki ücretsiz WiFi noktalarına bağlanın.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-ucretsizwifi.svg"
+    },
+    {
+      "title": "BiP Acil Durum Butonu",
+      "description": "BiP Acil Durum Butonu ile acil durumda ulaşmak istediğiniz kişilere nasıl olduğunuzu konumunuzla birlikte tek tıkla hem BiP hem SMS üzerinden gönderin.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-bip-acildurum.svg"
+    }
+    
+  ]
+  

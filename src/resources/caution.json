@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Acil İletişim Paketi",
+      "description": "Afet bölgelerindeki kullanıcılarımızdan borcu nedeniyle hattı kapalı ya da kısıtlı hatlarını acil iletişim ihtiyaçlarını karşılamak için kullanıma açıyoruz. Bölgedeki kullanıcılarımıza ücretsiz görüşme için dakika, SMS ve internet içeren 'Acil İletişim Paketi' ile arama kurtarma ekiplerine 'Kahraman Paketi' ve 'Kurtaran Paketi' tanımlıyoruz.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-acil-iletisim.svg"
+    },
+    {
+      "title": "Kesintisiz İletişim",
+      "description": "Afet durumunda oluşacak yüksek ses trafiğini karşılamak için şebekemizi en yeni, yüksek kapasiteli ve dayanıklı teknolojilerle yönetiyoruz. Afet bölgelerinde zarar gören baz istasyonlarımızı hızla hizmete alıyoruz. Şebekemizi güçlendirmek için mobil baz istasyonları kuruyoruz, jeneratörler ve uydu hizmeti verebilen mobil araçlarla kesintisiz iletişim sağlıyoruz.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-kesintisiz-iletisim.svg"
+    },
+    {
+      "title": "Afet Sonrası Destek",
+      "description": "Arama kurtarma ekiplerine ve afet sonrası toplanma alanlarına sabit internet hizmeti ve mobil şarj istasyonları sağlıyoruz.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-afet-sonrasi-destek.svg"
+    },
+    {
+      "title": "Fatura Dondurma ve İptal",
+      "description": "Afet bölgelerinde ev internetini ücretsiz olarak dondurma, nakil etme veya iptal olanağı sunuyoruz. İptal edilen modem ücretlerini siliyoruz.",
+      "img": "https://s.turkcell.com.tr/SiteAssets/LandingPage/diger/afettedbirleri/assets/images/box-afet-fatura.svg"
+    }
+
+]
